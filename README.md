@@ -17,13 +17,15 @@ no API keys, 100% free and private.
 - HTML + CSS + JavaScript (chat interface)
 
 ## Project structure
+
 my-ai-agent/
 │
-├── agent.py          ← Terminal version of the chatbot
+├── agent.py          ← Terminal chatbot
 ├── app.py            ← Flask web server
 ├── templates/
 │   └── index.html    ← Browser chat interface
 └── requirements.txt
+
 
 ## How to run it
 
